@@ -1,11 +1,16 @@
 _repo: Bohemian-Days-in-Fleet-Street_51585
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51585-h/images/covers.jpg
 creator:
   author:
     agent_name: Mackay, William
     gutenberg_agent_id: '46479'
     url: http://www.gutenberg.org/2009/agents/46479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51585#Bohemian-Days-in-Fleet-Street
 gutenberg_issued: '2016-03-28'
 gutenberg_type: Text
 identifiers:
